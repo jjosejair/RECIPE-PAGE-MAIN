@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(201, 167, 122);
+    border-radius: 0%;
+    width: 100vw;
+    height: 100vh;
+}
+
+main {
+    margin: auto;
+    background-color: aliceblue;
+    width: 50%;
+    border-radius: 10px;
+}
+img{
+    width: 100%;
+   
+}
+
